@@ -1,4 +1,4 @@
-# Padorafms
+# Pandorafms
 
 Ver en "http://localhost:8200/pandora_console"
 
