@@ -1,5 +1,3 @@
-version: '3.3'
-
 services:
 
   db:
@@ -40,4 +38,5 @@ services:
       - "9995:9995/udp"
       
 networks:
+
   pandora:
